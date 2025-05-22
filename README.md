@@ -1,4 +1,4 @@
-# ThinkRec
+# InsightRec
 
 
 **Step. 1**
